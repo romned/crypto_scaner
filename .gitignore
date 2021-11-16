@@ -1,0 +1,4 @@
+.env
+scan_env/
+__pycache__/
+ta-lib/
